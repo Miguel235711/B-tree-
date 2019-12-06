@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1575512730 source:c:\users\mig1-\onedrive - instituto tecnologico y de estudios superiores de monterrey\documents\school hard disk backup\data structures\b tree\src\btreenode.cpp
+	"bTreeNode.h"
+
+1575530346 c:\users\mig1-\onedrive - instituto tecnologico y de estudios superiores de monterrey\documents\school hard disk backup\data structures\b tree\include\btreenode.h
+	<iostream>
+
+1575620254 source:c:\users\mig1-\onedrive - instituto tecnologico y de estudios superiores de monterrey\documents\school hard disk backup\data structures\b tree\src\btree.cpp
+	"bTree.h"
+	"bTreeNode.cpp"
+
+1575612530 c:\users\mig1-\onedrive - instituto tecnologico y de estudios superiores de monterrey\documents\school hard disk backup\data structures\b tree\include\btree.h
+	<iostream>
+	"bTreeNode.h"
+
+1575512730 c:\users\mig1-\onedrive - instituto tecnologico y de estudios superiores de monterrey\documents\school hard disk backup\data structures\b tree\src\btreenode.cpp
+	"bTreeNode.h"
+
+1575621051 source:c:\users\mig1-\onedrive - instituto tecnologico y de estudios superiores de monterrey\documents\school hard disk backup\data structures\b tree\main.cpp
+	<iostream>
+	"src/bTree.cpp"
+
+1575620254 c:\users\mig1-\onedrive - instituto tecnologico y de estudios superiores de monterrey\documents\school hard disk backup\data structures\b tree\src\btree.cpp
+	"bTree.h"
+	"bTreeNode.cpp"
+
